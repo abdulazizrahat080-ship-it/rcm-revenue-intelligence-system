@@ -69,5 +69,5 @@ The SQL solutions were designed with production-style analytical thinking and da
 - Add provider-level KPI tracking
 
   ## Requests
-- I would appreciate feedback and comments.
+- I would appreciate your feedback and comments.
 - This project took around one and a half day to be completed. Your encouragement would help me grow more. 
